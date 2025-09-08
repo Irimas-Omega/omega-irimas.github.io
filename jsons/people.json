@@ -3,7 +3,7 @@
         {
             "firstname": "Lhassane",
             "lastname": "Idoumghar",
-            "link": "",
+            "link": "https://www.mage.fst.uha.fr/idoumghar/",
             "position": "Head / Full Prof.",
             "pic_links": [
                 "imgs/idoumghar.jpg"
@@ -48,7 +48,7 @@
         {
             "firstname": "Mathieu",
             "lastname": "Brevilliers",
-            "link": "",
+            "link": "https://www.mage.fst.uha.fr/brevilliers/index_fr.html ",
             "position": "Assoc. Prof.",
             "pic_links": [
                 "imgs/brevilliers.jpg"
@@ -57,7 +57,7 @@
         {
             "firstname": "Laurent",
             "lastname": "Moalic",
-            "link": "",
+            "link": "https://scholar.google.com/citations?hl=fr&user=NNJ_D8wAAAAJ",
             "position": "Assoc. Prof.",
             "pic_links": [
                 "imgs/moalic.jpg"
@@ -84,7 +84,7 @@
         {
             "firstname": "Karim",
             "lastname": "Hammoudi",
-            "link": "",
+            "link": "http://karimhammoudi.free.fr/",
             "position": "Assoc. Prof. – HDR",
             "pic_links": [
                 "imgs/hammoudi.jpg"
@@ -93,7 +93,7 @@
         {
             "firstname": "Frédéric",
             "lastname": "Cordier",
-            "link": "",
+            "link": "https://scholar.google.com/citations?user=r4gezHUAAAAJ&hl=fr",
             "position": "Assoc. Prof. – HDR",
             "pic_links": [
                 "imgs/cordier.jpg"
@@ -111,7 +111,7 @@
         {
             "firstname": "Mokhtar",
             "lastname": "Essaid",
-            "link": "",
+            "link": "https://scholar.google.com/citations?user=nywqwwkAAAAJ&hl=fr&oi=ao",
             "position": "Assoc. Prof.",
             "pic_links": [
                 "imgs/essaid.jpg"
@@ -120,7 +120,7 @@
         {
             "firstname": "Mahmoud",
             "lastname": "Golabi",
-            "link": "",
+            "link": "https://scholar.google.com/citations?hl=fr&user=zzv2TIYAAAAJ",
             "position": "Researcher – HDR",
             "pic_links": [
                 "imgs/golabi.jpg"
@@ -129,7 +129,7 @@
         {
             "firstname": "Abdennour",
             "lastname": "Azerine",
-            "link": "",
+            "link": "https://scholar.google.com/citations?hl=fr&user=N-t5pmMAAAAJ",
             "position": "Assoc. Prof.",
             "pic_links": [
                 "imgs/person.png"
